@@ -1,1 +1,1 @@
-# Week3HomeWorks
+3.Hafta Ödevlerini İçerir.
